@@ -1,8 +1,27 @@
+/* header */
+header {
+	width: 100%;
+	padding: 10px 4% 10px;
+	background-color: #111111;
+	position: fixed;
+	top: 0;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+
+
 /* footer */
 
 footer {
+	width: 100%;
 	margin-top: 45px;
-	padding-top: 5px;
+	padding-bottom: 5px;
+	position: fixed;
+	bottom: 0;
 }
 
 #icon {
